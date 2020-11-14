@@ -1,4 +1,4 @@
-package com.example.explore.transformation;
+package com.example.explore.model;
 
 import com.fasterxml.jackson.annotation.JsonInclude;
 import lombok.AllArgsConstructor;

@@ -9,7 +9,7 @@ import com.example.explore.model.FriendRequest;
 import com.example.explore.model.FriendResponse;
 import com.example.explore.repository.FriendsRepository;
 import com.example.explore.service.FriendsService;
-import com.example.explore.transformation.FriendsDto;
+import com.example.explore.model.FriendsDto;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

@@ -2,7 +2,7 @@ package com.example.explore.service;
 
 import com.example.explore.model.FriendRequest;
 import com.example.explore.model.FriendResponse;
-import com.example.explore.transformation.FriendsDto;
+import com.example.explore.model.FriendsDto;
 
 import java.util.List;
 

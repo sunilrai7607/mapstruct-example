@@ -1,7 +1,7 @@
 package com.example.explore.mapper;
 
 import com.example.explore.entity.FriendsEntity;
-import com.example.explore.transformation.FriendsDto;
+import com.example.explore.model.FriendsDto;
 import org.mapstruct.Mapper;
 
 
